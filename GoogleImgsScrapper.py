@@ -1,9 +1,9 @@
 import discord
 from discord.ext import commands
-#parser
+
 import requests
 from bs4 import BeautifulSoup
-# to work with apikeys.txt
+
 import os
 import time
 
