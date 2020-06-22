@@ -7,3 +7,5 @@ Unfortunately I couldn't format it to .exe so you must have python and these lib
 
 So, to use this script you should create your own discord bot (you need to do it cause this is a script wich needs your bot TOKEN).
 Then you should download scrapper.py, start it with administrator rights and follow the instructions!
+
+To get your discord TOKEN you should press Cntrl+Shift+i, go to Network, press Cntrl+r, type "api" in filter field, go to library, open "headers", in Request headers you can find "Authorization", this is your TOKEN
